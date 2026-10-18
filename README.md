@@ -1,6 +1,6 @@
-# WP Agent
+# WP Agent — Manage WordPress from Chat
 
-Manage your self-hosted WordPress site from Claude: write and publish posts, edit pages, handle media, comments, menus, SEO and plugins. No AI key needed.
+Run your self-hosted WordPress site from Claude: write and publish posts, edit pages, upload media, moderate comments, update menus, check SEO and manage plugins. Connect with just your site URL. No AI key needed.
 
 ## Use it
 

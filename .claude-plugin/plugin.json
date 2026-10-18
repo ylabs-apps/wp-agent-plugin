@@ -1,22 +1,27 @@
 {
   "name": "wp-agent",
-  "displayName": "WP Agent",
+  "displayName": "WP Agent — Manage WordPress from Chat",
   "version": "1.0.0",
-  "description": "Manage your self-hosted WordPress site from Claude: write and publish posts, edit pages, handle media, comments, menus, SEO and plugins. No AI key needed.",
+  "description": "Run your self-hosted WordPress site from Claude: write and publish posts, edit pages, upload media, moderate comments, update menus, check SEO and manage plugins. Connect with just your site URL. No AI key needed.",
   "author": {
     "name": "WP Agent"
   },
   "license": "MIT",
   "keywords": [
     "wordpress",
-    "wordpress site",
     "manage wordpress",
+    "wordpress admin",
+    "wp-admin",
     "publish post",
+    "edit page",
     "blog",
     "seo",
-    "wordpress admin",
+    "wordpress plugins",
+    "comments",
+    "media library",
     "self-hosted wordpress",
-    "content management"
+    "website management",
+    "wordpress assistant"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/wp-agent-plugin",
