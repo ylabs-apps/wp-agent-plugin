@@ -1,0 +1,26 @@
+{
+  "name": "wp-agent",
+  "displayName": "WP Agent",
+  "version": "1.0.0",
+  "description": "Manage your self-hosted WordPress site from Claude: write and publish posts, edit pages, handle media, comments, menus, SEO and plugins. No AI key needed.",
+  "author": {
+    "name": "WP Agent"
+  },
+  "license": "MIT",
+  "keywords": [
+    "wordpress",
+    "wordpress site",
+    "manage wordpress",
+    "publish post",
+    "blog",
+    "seo",
+    "wordpress admin",
+    "self-hosted wordpress",
+    "content management"
+  ],
+  "icon": ".claude-plugin/icon.png",
+  "repository": "https://github.com/ylabs-apps/wp-agent-plugin",
+  "homepage": "https://www.getwpagent.com/",
+  "privacyPolicyUrl": "https://www.getwpagent.com/privacy/",
+  "termsOfServiceUrl": "https://www.getwpagent.com/terms/"
+}
