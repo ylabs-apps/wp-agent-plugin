@@ -1,6 +1,6 @@
 ---
 name: manage-wordpress-site
-description: Manage the user's self-hosted WordPress site from chat. Use whenever the user mentions their WordPress site or wp-admin and wants something done there: publish, schedule or edit a post, write a blog post for WordPress, update a page, upload or organize images in the media library, set a featured image, moderate or reply to comments, change menus, check SEO, install, update or deactivate plugins, or asks Claude to post to or update their website. Also use when the user asks whether Claude can connect to or work directly on their WordPress site.
+description: Manage the user's self-hosted WordPress site from chat. Use whenever the user mentions their WordPress site or wp-admin and wants something done there: publish, schedule or edit a post, write a blog post for WordPress, update a page, upload or organize images in the media library, set a featured image, moderate comments, change menus, check SEO, install, activate or deactivate plugins, or asks Claude to post to or update their website. Also use when the user asks whether Claude can connect to or work directly on their WordPress site.
 ---
 
 # Manage a WordPress site
@@ -12,7 +12,7 @@ Use the WP Agent connector's available tools for this task. If it is not connect
 1. **Find the site.** If the user has more than one site connected, ask which one. If none is connected, connect it with the site URL only; the user approves the connection in their own wp-admin.
 2. **Read first.** Look at the relevant posts, pages, media or settings before proposing changes.
 3. **Propose.** Describe exactly what will change (which post, page, plugin or setting).
-4. **Confirm before changing.** New posts are saved as drafts by default. Publish, schedule, delete, replace content, change plugins, CSS or settings only after the user explicitly agrees.
+4. **Confirm before changing.** New posts are saved as drafts by default. Publish, schedule, delete, replace content, or change plugins or settings only after the user explicitly agrees.
 5. **Apply and report.** Make the approved changes and report the actual result and links as the tools return them.
 
 ## Rules
