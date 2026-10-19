@@ -1,6 +1,6 @@
 ---
 name: manage-wordpress-site
-description: Manage the user's self-hosted WordPress site from chat. Use whenever the user mentions their WordPress site or wp-admin and wants something done there: publish, schedule or edit a post, write a blog post for WordPress, update a page, upload or organize images in the media library, set a featured image, moderate comments, change menus, check SEO, install, activate or deactivate plugins, or asks Claude to post to or update their website. Also use when the user asks whether Claude can connect to or work directly on their WordPress site.
+description: Manage the user's self-hosted WordPress site from chat. Use whenever the user mentions their WordPress site or wp-admin and wants something done there: update a page or edit an existing post, upload or organize images in the media library, set a featured image, moderate comments, change menus, check SEO, install, activate or deactivate plugins, or asks Claude to update or fix something on their website. Also use when the user asks whether Claude can connect to or work directly on their WordPress site.
 ---
 
 # Manage a WordPress site
