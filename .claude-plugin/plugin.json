@@ -12,10 +12,7 @@
     "manage wordpress",
     "wordpress admin",
     "wp-admin",
-    "publish post",
     "edit page",
-    "blog",
-    "seo",
     "wordpress plugins",
     "comments",
     "media library",
@@ -27,7 +24,9 @@
     "edit wordpress page",
     "wordpress menus",
     "featured image",
-    "wordpress editor"
+    "wordpress editor",
+    "seo check",
+    "wordpress maintenance"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/wp-agent-plugin",
