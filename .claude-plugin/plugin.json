@@ -1,8 +1,8 @@
 {
   "name": "wp-agent",
-  "displayName": "WP Agent — Manage WordPress from Chat",
+  "displayName": "WP Agent — Manage your WordPress site",
   "version": "1.0.0",
-  "description": "Run your self-hosted WordPress site from Claude: write and publish posts, edit pages, upload media, moderate comments, update menus, check SEO and manage plugins. Connect with just your site URL. No AI key needed.",
+  "description": "Manage your self-hosted WordPress site from Claude: edit pages and posts, upload and organize media, set featured images, moderate comments, update menus, check SEO and install, activate or deactivate plugins. Connect with just your site URL. No AI key needed.",
   "author": {
     "name": "WP Agent"
   },
@@ -21,11 +21,19 @@
     "media library",
     "self-hosted wordpress",
     "website management",
-    "wordpress assistant"
+    "wordpress assistant",
+    "wordpress manager",
+    "wordpress site",
+    "edit wordpress page",
+    "wordpress menus",
+    "featured image",
+    "wordpress editor"
   ],
   "icon": ".claude-plugin/icon.png",
   "repository": "https://github.com/ylabs-apps/wp-agent-plugin",
   "homepage": "https://www.getwpagent.com/",
   "privacyPolicyUrl": "https://www.getwpagent.com/privacy/",
-  "termsOfServiceUrl": "https://www.getwpagent.com/terms/"
+  "termsOfServiceUrl": "https://www.getwpagent.com/terms/",
+  "supportUrl": "https://www.getwpagent.com/contact",
+  "documentationUrl": "https://www.getwpagent.com/docs"
 }
